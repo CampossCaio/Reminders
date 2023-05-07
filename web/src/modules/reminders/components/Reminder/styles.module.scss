@@ -1,0 +1,36 @@
+.reminder {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: #159a9c;
+  border-radius: 8px;
+
+  .description {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+    > span {
+      font-size: 20px;
+
+      &:last-child {
+        font-size: 14px;
+        color: #deefe7;
+      }
+    }
+  }
+
+  > button {
+    background: 0;
+    outline: 0;
+    border: 0;
+    color: #ffffff;
+    cursor: pointer;
+
+    &:hover {
+      color: red;
+    }
+  }
+}
