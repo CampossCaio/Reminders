@@ -3,10 +3,7 @@
 
 ##  Reminders
 
-
-<a href="">
-  <img alt="Reminders" src="">
-</a>
+![Kapture 2023-05-07 at 18 35 41](https://user-images.githubusercontent.com/52550525/236705614-16b22087-a356-499b-a37c-01fd747f3c4b.gif)
 
 
 ## 🚀 Getting Started
